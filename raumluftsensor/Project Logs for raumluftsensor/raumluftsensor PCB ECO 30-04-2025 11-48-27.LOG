@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetDisplay_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetDisplay_2 New Net Name=SCL
+Change Net Name : Old Net Name=NetDisplay_3 New Net Name=GND
+Change Net Name : Old Net Name=NetDisplay_4 New Net Name=VCC

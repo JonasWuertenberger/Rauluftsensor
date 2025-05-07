@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Display
+Change Component Designator: OldDesignator=P2 NewDesignator=Sensor
+Change Component Designator: OldDesignator=U1 NewDesignator=ESP32 C3
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetDisplay_3
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetDisplay_4
+Added Pin To Net: NetName=NetDisplay_1 Pin=Display-1
+Added Pin To Net: NetName=NetDisplay_1 Pin=ESP32 C3-5
+Added Pin To Net: NetName=NetDisplay_1 Pin=Sensor-1
+Added Net: Name=NetDisplay_1
+Added Pin To Net: NetName=NetDisplay_2 Pin=Display-2
+Added Pin To Net: NetName=NetDisplay_2 Pin=ESP32 C3-6
+Added Pin To Net: NetName=NetDisplay_2 Pin=Sensor-2
+Added Net: Name=NetDisplay_2
