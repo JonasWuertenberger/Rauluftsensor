@@ -1,2 +1,0 @@
-# Rauluftsensor
-school project
